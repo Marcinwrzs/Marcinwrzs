@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### About Me 💬
-Welcome to my GitHub profile! I am a results-driven developer with experience in process automation and a "can-do" attitude. I've had the privilege to collaborate with senior developers on non-commercial projects, honing my skills and keeping up with the latest standards. My expertise lies in writing responsive web pages using **React** and **TypeScript**, implementing **custom hooks**, and connecting to **RESTful APIs**. Additionally, I'm well-versed in using Git for version control.
+Welcome to my GitHub profile! I am result-driven developer with an experience in process automation and "can-do" attitude. I've had the privilege to collaborate with senior developers on non-commercial projects, improving my skills and keeping up with the latest standards. My expertise lies in writing responsive web pages using React and TypeScript, implementing custom hooks, and connecting to RESTful APIs. Additionally, I'm well-versed in using Git for version control.
 
 ### Project Overview 🔭
 
