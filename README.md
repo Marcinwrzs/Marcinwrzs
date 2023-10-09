@@ -3,7 +3,7 @@
 ### About Me 💬
 Welcome to my GitHub profile! I am result-driven developer with an experience in process automation and "can-do" attitude. I've had the privilege to collaborate with senior developers on non-commercial projects, improving my skills and keeping up with the latest standards. My expertise lies in writing responsive web pages using React and TypeScript, implementing custom hooks, and connecting to RESTful APIs. Additionally, I'm well-versed in using Git for version control.
 
-### Project Overview 🔭
+### Overview 🔭
 
 Front-End Development: I specialize in front-end development using modern technologies. I have experience in building responsive web pages using React and TypeScript, always following the newest industry standards.
 
@@ -12,6 +12,25 @@ API Integration: I excel in connecting applications to external APIs, allowing s
 Version Control: I am proficient in using Git for version control, ensuring efficient collaboration and code management.
 
 Problem Solving: My problem-solving skills and "can-do" attitude drive me to overcome challenges and find creative solutions.
+
+### Technologies 🛠️
+
+Front-End Framework: **React**
+
+Programming Languages: **TypeScript**, **JavaScript**
+
+Web Development: **HTML**, **CSS**, **SCSS**
+
+Build Tools: **Webpack**
+
+Styling Framework: **Bootstrap**
+
+Version Control: **GitHub**
+
+API Integration: **Axios** for making API requests
+
+Additional Skills: **Problem-solving**, **responsive web design**, **custom hook implementation**
+
 
 ### Contact 📫
 If you have any questions, want to discuss potential collaborations, or simply want to connect, you can reach me at **marcin.wrzs@gmail.com**.
