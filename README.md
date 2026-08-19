@@ -1,51 +1,27 @@
-### Hi there 👋
+# Hi, I'm Marcin 👋
 
-### About Me 💬
-Welcome to my GitHub profile! I am result-driven developer with an experience in process automation and "can-do" attitude. I've had the privilege to collaborate with senior developers on non-commercial projects, improving my skills and keeping up with the latest standards. My expertise lies in writing responsive web pages using React and TypeScript, implementing custom hooks, and connecting to RESTful APIs. Additionally, I'm well-versed in using Git for version control.
+Full Stack Developer based in Wrocław, Poland — building production systems across frontend, backend, and cloud infrastructure.
 
-### Overview 🔭
+## About me
 
-Front-End Development: I specialize in front-end development using modern technologies. I have experience in building responsive web pages using React and TypeScript, always following the newest industry standards.
+I work across the stack: React and Angular on the frontend, Java/Spring Boot and Node.js on the backend, with hands-on experience in AWS infrastructure, Terraform, and CI/CD pipelines. Before moving into software development, I spent five years in the financial industry, which gives me a practical understanding of business requirements alongside the technical side.
 
-API Integration: I excel in connecting applications to external APIs, allowing seamless data retrieval and integration into web applications.
+Recent work has included cloud-native SaaS platforms, mobile app deployment pipelines (App Store / Google Play), and enterprise systems with strict security and compliance requirements. I care about clean, maintainable code and clear technical documentation as much as I care about shipping features.
 
-Version Control: I am proficient in using Git for version control, ensuring efficient collaboration and code management.
+## What I work with
 
-Problem Solving: My problem-solving skills and "can-do" attitude drive me to overcome challenges and find creative solutions.
+**Frontend:** React, Angular, TypeScript, JavaScript, Redux, RxJS
+**Backend:** Java, Spring Boot, Node.js, Python
+**Cloud & Infra:** AWS (Lambda, ECS, S3, DynamoDB), Terraform, Docker, CI/CD (GitHub Actions, GitLab CI)
+**Databases:** PostgreSQL, DynamoDB
+**Testing:** Jest, Playwright
 
-### Technologies 🛠️
+## Currently
 
-Front-End Framework: **React**
+Working as a Full Stack Developer on client projects spanning serverless SaaS platforms, IoT/monitoring systems with mobile deployment, and enterprise applications for the public sector.
 
-Programming Languages: **TypeScript**, **JavaScript**
+## Get in touch
 
-Web Development: **HTML**, **CSS**, **SCSS**
-
-Build Tools: **Webpack**
-
-Styling Framework: **Bootstrap**
-
-Version Control: **GitHub**
-
-API Integration: **Axios** for making API requests
-
-Additional Skills: **Problem-solving**, **responsive web design**, **custom hook implementation**
-
-
-### Contact 📫
-If you have any questions, want to discuss potential collaborations, or simply want to connect, you can reach me at **marcin.wrzs@gmail.com**.
-
-<!--
-**Marcinwrzs/Marcinwrzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 marcin.wrzs@gmail.com
+💼 [linkedin.com/in/marcin-wrzoś](https://www.linkedin.com/in/marcin-wrzo%C5%9B)
+🌐 [Portfolio](https://marcinwrzs.github.io/Portfolio/#/)
